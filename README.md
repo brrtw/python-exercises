@@ -5,10 +5,14 @@ Aqui você vai encontrar minha jornada inicial na linguagem, com foco em conceit
 
 
 
+
+
 📚 Sobre o Projeto
 
 Este repositório foi criado para registrar meu aprendizado com Python desde os primeiros passos.  
 A ideia é praticar, organizar e compartilhar o que estou estudando — começando com o essencial da linguagem.
+
+
 
 
 🧠 O que estou aprendendo
@@ -20,6 +24,9 @@ A ideia é praticar, organizar e compartilhar o que estou estudando — começan
 - Manipulação de strings
 - Listas e dicionários
 - Introdução ao tratamento de erros
+
+
+
 
 
 📝 Listas de Exercícios
@@ -40,6 +47,7 @@ A ideia é praticar, organizar e compartilhar o que estou estudando — começan
 - [ ] Cadastro de usuários com dicionários
 - [ ] Manipulação de listas (média, soma, ordenação)
 - [ ] Função para verificar se um número é primo
+
 
 
 
