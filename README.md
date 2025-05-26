@@ -41,7 +41,7 @@ A ideia é praticar, organizar e compartilhar o que estou estudando — começan
 3. Functions and Data Structures
 - [x] Cadastro de usuários com dicionários
 - [x] Manipulação de listas (média, soma, ordenação)
-- [] Funçoes
+- [ ] Funçoes
 
 ---
 
