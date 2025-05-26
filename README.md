@@ -3,17 +3,14 @@
 Bem-vindo ao meu repositório de estudos com **Python**!  
 Aqui você vai encontrar minha jornada inicial na linguagem, com foco em conceitos básicos, prática com exercícios e muita curiosidade de aprender cada vez mais. 🚀
 
-
-
-
+---
 
 📚 Sobre o Projeto
 
 Este repositório foi criado para registrar meu aprendizado com Python desde os primeiros passos.  
 A ideia é praticar, organizar e compartilhar o que estou estudando — começando com o essencial da linguagem.
 
-
-
+---
 
 🧠 O que estou aprendendo
 
@@ -25,9 +22,7 @@ A ideia é praticar, organizar e compartilhar o que estou estudando — começan
 - Listas e dicionários
 - Introdução ao tratamento de erros
 
-
-
-
+---
 
 📝 Listas de Exercícios
 
@@ -44,14 +39,11 @@ A ideia é praticar, organizar e compartilhar o que estou estudando — começan
 - [x] Repetição com `for`
 
 3. Functions and Data Structures
-- [ ] Cadastro de usuários com dicionários
-- [ ] Manipulação de listas (média, soma, ordenação)
-- [ ] Função para verificar se um número é primo
+- [x] Cadastro de usuários com dicionários
+- [x] Manipulação de listas (média, soma, ordenação)
+- [] Funçoes
 
-
-
-
-
+---
 
 ✨ Objetivos Futuros
 
